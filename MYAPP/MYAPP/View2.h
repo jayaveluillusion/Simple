@@ -10,7 +10,7 @@
 
 @interface View2 : UIViewController
 {
-    IBOutlet UILabel *hellowworld;
+    IBOutlet UILabel *Helloworld;
     
 }
 -(IBAction)Button:(id)sender;

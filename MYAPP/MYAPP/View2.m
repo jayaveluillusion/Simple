@@ -14,6 +14,13 @@
 
 @implementation View2
 
+-(IBAction)Button:(id)sender
+{
+    Helloworld.text=[NSString stringWithFormat:@"Hello World"];
+}
+    
+
+
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
@@ -26,7 +33,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"Hello World");
+    
 	// Do any additional setup after loading the view.
 }
 
