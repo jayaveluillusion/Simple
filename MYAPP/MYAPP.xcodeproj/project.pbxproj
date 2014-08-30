@@ -18,6 +18,7 @@
 		BD50193919B1B56800F9CAC6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD50193819B1B56800F9CAC6 /* Default-568h@2x.png */; };
 		BD50193C19B1B56900F9CAC6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD50193A19B1B56800F9CAC6 /* MainStoryboard.storyboard */; };
 		BD50193F19B1B56900F9CAC6 /* SPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BD50193E19B1B56900F9CAC6 /* SPViewController.m */; };
+		BD50197619B1CB5600F9CAC6 /* View2.m in Sources */ = {isa = PBXBuildFile; fileRef = BD50197519B1CB5600F9CAC6 /* View2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		BD50193B19B1B56900F9CAC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		BD50193D19B1B56900F9CAC6 /* SPViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SPViewController.h; sourceTree = "<group>"; };
 		BD50193E19B1B56900F9CAC6 /* SPViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPViewController.m; sourceTree = "<group>"; };
+		BD50197419B1CB5600F9CAC6 /* View2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View2.h; sourceTree = "<group>"; };
+		BD50197519B1CB5600F9CAC6 /* View2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				BD50193119B1B56800F9CAC6 /* SPAppDelegate.h */,
 				BD50193219B1B56800F9CAC6 /* SPAppDelegate.m */,
 				BD50193A19B1B56800F9CAC6 /* MainStoryboard.storyboard */,
+				BD50197419B1CB5600F9CAC6 /* View2.h */,
+				BD50197519B1CB5600F9CAC6 /* View2.m */,
 				BD50193D19B1B56900F9CAC6 /* SPViewController.h */,
 				BD50193E19B1B56900F9CAC6 /* SPViewController.m */,
 				BD50192919B1B56800F9CAC6 /* Supporting Files */,
@@ -177,6 +182,7 @@
 				BD50192F19B1B56800F9CAC6 /* main.m in Sources */,
 				BD50193319B1B56800F9CAC6 /* SPAppDelegate.m in Sources */,
 				BD50193F19B1B56900F9CAC6 /* SPViewController.m in Sources */,
+				BD50197619B1CB5600F9CAC6 /* View2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
