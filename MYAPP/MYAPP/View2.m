@@ -34,6 +34,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"Here i'm checking wether the pull is working or not");
     
 	// Do any additional setup after loading the view.
 }
