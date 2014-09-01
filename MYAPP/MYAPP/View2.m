@@ -16,7 +16,7 @@
 
 -(IBAction)Button:(id)sender
 {
-    Helloworld.text=[NSString stringWithFormat:@"Hello Welcome!!!"];
+    Helloworld.text=[NSString stringWithFormat:@"Hello World!!!"];
     NSLog(@"Hello World");
 }
     
